@@ -25,7 +25,7 @@ export function HeroSection() {
         <h1 className="font-pixel text-4xl md:text-6xl lg:text-7xl text-neon-pink glow-pink leading-tight text-balance">
           VIAHACK
           <span className="block text-lg md:text-2xl lg:text-3xl mt-4 text-neon-cyan glow-cyan">
-            2025
+            2026
           </span>
         </h1>
 
