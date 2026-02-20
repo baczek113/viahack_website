@@ -9,7 +9,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-    title: "VIAHACK 2025 - 24-Hour Innovation Hackathon",
+    title: "VIAHACK 2026",
     description:
         "24-hour innovation hackathon at VIA University College. Form teams, solve real-world problems, and showcase your skills.",
 }
